@@ -1,0 +1,29 @@
+.home_back{
+    padding: 100px;
+    color:white;
+    margin:0px auto;
+    
+}
+.row{
+    background-image: url('/home/keymouseit/Desktop/Ashwini/react/my-react-project/src/Image/banner.jpg');
+    display: inline-flex;
+    width: 100%;
+    padding-top: 140px;
+    padding-bottom: 140px;
+    background-size: 100% 100%;
+}
+.logo{
+    width:30%;
+}
+h1
+{
+    font-weight: 1200 !important;
+}
+.btn{
+    padding: 20px;
+    width:250px;
+    background-color: yellow;
+}
+span{
+    border-bottom: 3px solid rgb(139, 139, 7);
+}

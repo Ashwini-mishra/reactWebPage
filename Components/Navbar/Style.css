@@ -1,0 +1,43 @@
+.topNav{
+    width: 73%;
+    position: absolute;
+    right: 0;
+    top:100px;
+    background-color: #0c0c0c75;
+    color: white;
+    margin-left: 70px;
+    text-align: left;
+}
+
+.nav{
+    display: inline-flex;
+    width: 100%;
+}
+
+ul{
+    display: inline-flex;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+li{
+    margin: 20px;
+    text-decoration: none;
+}
+
+.logo{
+    width:28%;
+    position:absolute;
+    top:40px;
+    left:20px;
+
+}
+.gallery{
+    width: 100%;
+    display: inline-flex;
+    text-align: center;
+}
+.gal{
+    width: 30%;
+    margin:0px auto;
+}
